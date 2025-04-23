@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">I'm a fourth year engineering student from University Paris-Saclay (CentraleSupélec), France.<br><br>- 🔭 I’m working on different projects, implementing predictive models related to various contexts.<br>- I'm currently learning AI, ML and DeepLearning<br>- I am currently looking for a 5 to 6 month internship starting in August/September, preferentially in the field of Machine Learning/Computer Vision.</p>
+<p align="left">I'm a fourth year engineering student from University Paris-Saclay (CentraleSupélec), France.<br><br>-  I’m working on different projects, implementing predictive models related to various contexts.<br>- I'm currently learning AI, ML and DeepLearning<br>- I am currently looking for a 5 to 6 month internship starting in August/September, preferentially in the field of Machine Learning/Computer Vision.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
