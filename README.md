@@ -1,68 +1,38 @@
-<div align="center">
-  <img height="150" src="https://ajmendez.github.io/assets/helloworld_finished.png"  />
-</div>
+<h1 align="center">Yo, I'm Baptiste 👽</h1>
 
-###
+<p align="center">
+  <b>Final-year student · Machine Learning & Applied Mathematics</b><br>
+  CentraleSupélec × Université Paris-Saclay (MSc Mathematics & AI)
+</p>
 
-<div align="center">
-   <a href="https://www.linkedin.com/in/baptiste-barraqu%C3%A9-800a3a290/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/baptiste-barraqu%C3%A9-800a3a290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="mailto:baptiste.barraque@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=baptistebarraque.baptistebarraque&"  />
-</div>
+### About me
 
-###
+- 🎓 Final year of a **double degree**: CentraleSupélec engineering school + **MIA** research master's (Mathematics & AI) at Université Paris-Saclay
+- 🌍 Building **personal projects with an environmental/social impact**
+- 🔭 **Looking for an end-of-studies internship** in an **impact-driven company**, on a **technical role** (ML / data / applied maths). Let's talk!
 
-<h1 align="center">Meet Baptiste </h1>
+### Experience
 
-###
+**Research Intern · [IMPA](https://impa.br)** · Rio de Janeiro · *Mar – Jul 2026*
+Optimal Transport for Machine Learning: effect of entropic regularization on the out-of-sample generalization of fair regression models.
 
-<h3 align="left"> About Me</h3>
+**Computer Vision Intern · InWave** · Rio de Janeiro · *Sep 2025 – Feb 2026*
+Deep learning object detection for retail and fraud detection. Optimized accuracy, inference speed and deployment with HPC techniques, deployed in hundreds of stores across Brazil and Europe.
 
-###
+### Tech stack
 
-<p align="left">I'm a fourth year engineering student from University Paris-Saclay (CentraleSupélec), France.<br><br>-  I’m working on different projects, implementing predictive models related to various contexts.<br>- I'm currently learning AI, ML and DeepLearning<br>- I am currently a Computer Vision Intern at InWave Brasil, working on optimizing and enhancing real-time video analysis solutions for retail environments, focusing on improving product detection and checkout process automation using lightweight deep learning models and edge computing. </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,linux,latex,vscode" alt="Tech stack" />
+</p>
 
-###
-
-<h3 align="left"> Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baptistebarraque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/baptistebarraque/count.svg?"  />
-</div>
-
-###
